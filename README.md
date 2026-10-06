@@ -167,3 +167,9 @@ If you have any question or want a custom build for your business, you can reach
 
 MyChannel: https://www.youtube.com/codebucks
 My Website: https://devdreaming.com/
+
+## From the creator
+
+SmartHeadshots is my separate hosted product for [professional AI headshots](https://www.smartheadshots.ai/professional-headshots).
+
+Languages: [Deutsch](https://www.smartheadshots.ai/de/business-portrait) · [Español](https://www.smartheadshots.ai/es/foto-corporativa).
